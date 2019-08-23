@@ -1,0 +1,16 @@
+{
+  "name": "gitkick",
+  "version": "1.0.0",
+  "description": "A dev tool that can be used to automate the init steps of git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "node",
+    "cli"
+  ],
+  "author": "Abrar Zahin",
+  "license": "ISC"
+}
